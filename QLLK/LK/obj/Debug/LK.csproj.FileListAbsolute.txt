@@ -1,0 +1,13 @@
+F:\DB2_BaoCao\QLLK\LK\bin\Debug\LK.exe.config
+F:\DB2_BaoCao\QLLK\LK\bin\Debug\LK.exe
+F:\DB2_BaoCao\QLLK\LK\bin\Debug\LK.pdb
+F:\DB2_BaoCao\QLLK\LK\bin\Debug\IBM.Data.DB2.dll
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.csprojResolveAssemblyReference.cache
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.frmChucVu.resources
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.frmLinhKien.resources
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.Properties.Resources.resources
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.csproj.GenerateResource.cache
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.csproj.CoreCompileInputs.cache
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.csproj.CopyComplete
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.exe
+F:\DB2_BaoCao\QLLK\LK\obj\Debug\LK.pdb
